@@ -1,5 +1,5 @@
 - 👋 My name is Stanislav Koncebovski
-- 👀 I am aan applied mathematician and software engineer (.NET/C#, Python, C++, ...), specially interested in medical informatics, medical imaging, image processing, machine learning
+- 👀 I am an applied mathematician and software engineer (.NET/C#, Python, C++, ...), specially interested in medical informatics, medical imaging, image processing, machine learning
 - 🌱 I am currently learning convolutional neural networks (CNN) and natural language processing (NLP)
 - 💞️ I am looking to collaborate on projects in medical imaging, medical informatics, with or without machine learning stuff
 - 📫 How to reach me: the simplest way is ny email: info...at...pikkatech.eu (geographically in Berlin area, Germany)
